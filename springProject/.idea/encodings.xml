@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/bean/DBLog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/bean/DBLog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/bean/User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/bean/User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/excelpdf/Cat.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/excelpdf/Cat.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/excelpdf/Cat.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/excelpdf/ExcelDocument.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/excelpdf/ExcelDocument.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/excelpdf/ExcelDocument.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/excelpdf/ExcelPdfController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/excelpdf/ExcelPdfController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/excelpdf/ExcelPdfController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/excelpdf/PDFDocument.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/excelpdf/PDFDocument.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/excelpdf/PDFDocument.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/file/FileUploadController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/file/FileUploadController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/file/FileUploadController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/jdbc/JDBCController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/jdbc/JDBCController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/jdbc/JDBCExample.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/by/springProject/mvcHtml5Angular/mvc/jdbc/JDBCExample.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/dbschema.sql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/logback.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/test-data.sql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/util.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/tags" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/about" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/error" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/file" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/file" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/font-awesome" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/fonts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/resources/js" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+com\boot\repository\RoleRepository.class
+com\boot\service\SecurityService.class
+com\boot\entity\User.class
+com\boot\controller\RegistrationController.class
+com\boot\entity\Role.class
+com\boot\Application.class
+com\boot\config\WebSecurityConfig.class
+com\boot\repository\UserRepository.class
+com\boot\service\UserService.class
+com\boot\config\MvcConfig.class
+com\boot\controller\AdminController.class

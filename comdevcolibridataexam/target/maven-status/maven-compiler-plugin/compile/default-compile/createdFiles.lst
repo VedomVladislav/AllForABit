@@ -1,0 +1,13 @@
+com\devcolibri\dataexam\config\DataConfig.class
+com\devcolibri\dataexam\config\AppInitializer.class
+com\devcolibri\dataexam\entity\Client.class
+com\devcolibri\dataexam\entity\BankAccount.class
+com\devcolibri\dataexam\repository\BankAccountRepository.class
+com\devcolibri\dataexam\service\impl\BankServiceImpl.class
+com\devcolibri\dataexam\repository\BankRepository.class
+com\devcolibri\dataexam\repository\ClientRepository.class
+com\devcolibri\dataexam\service\BankService.class
+com\devcolibri\dataexam\entity\enums\WorkerStatus.class
+com\devcolibri\dataexam\repository\WorkerRepository.class
+com\devcolibri\dataexam\entity\Worker.class
+com\devcolibri\dataexam\entity\Bank.class

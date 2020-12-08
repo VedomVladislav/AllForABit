@@ -1,0 +1,3 @@
+com\devcolibri\dataexam\test\config\TestDataBaseConfig.class
+com\devcolibri\dataexam\test\service\BankServiceTest.class
+com\devcolibri\dataexam\test\util\BankUtil.class

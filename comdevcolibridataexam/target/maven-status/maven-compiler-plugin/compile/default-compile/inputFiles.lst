@@ -1,0 +1,13 @@
+D:\comdevcolibridataexam\src\main\java\com\devcolibri\dataexam\entity\Client.java
+D:\comdevcolibridataexam\src\main\java\com\devcolibri\dataexam\service\impl\BankServiceImpl.java
+D:\comdevcolibridataexam\src\main\java\com\devcolibri\dataexam\config\AppInitializer.java
+D:\comdevcolibridataexam\src\main\java\com\devcolibri\dataexam\config\DataConfig.java
+D:\comdevcolibridataexam\src\main\java\com\devcolibri\dataexam\entity\enums\WorkerStatus.java
+D:\comdevcolibridataexam\src\main\java\com\devcolibri\dataexam\repository\BankRepository.java
+D:\comdevcolibridataexam\src\main\java\com\devcolibri\dataexam\repository\ClientRepository.java
+D:\comdevcolibridataexam\src\main\java\com\devcolibri\dataexam\entity\Bank.java
+D:\comdevcolibridataexam\src\main\java\com\devcolibri\dataexam\repository\BankAccountRepository.java
+D:\comdevcolibridataexam\src\main\java\com\devcolibri\dataexam\service\BankService.java
+D:\comdevcolibridataexam\src\main\java\com\devcolibri\dataexam\entity\Worker.java
+D:\comdevcolibridataexam\src\main\java\com\devcolibri\dataexam\entity\BankAccount.java
+D:\comdevcolibridataexam\src\main\java\com\devcolibri\dataexam\repository\WorkerRepository.java
